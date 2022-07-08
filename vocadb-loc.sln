@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32611.2
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VocaDb.Model.Resources", "VocaDbModel.Resources\VocaDb.Model.Resources.csproj", "{7CA99559-2BCA-43CF-B03F-D78F9A8A6A84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VocaDbWeb.Resources", "VocaDbWeb.Resources\VocaDbWeb.Resources.csproj", "{2C42BAD9-1CB2-4621-9C6D-15729CB32685}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VocaDb.UtaiteDb.Resources", "VocaDb.UtaiteDbResources\VocaDb.UtaiteDb.Resources.csproj", "{C5A20185-136F-45B0-81C4-84102D3F2A80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VocaDb.TouhouDb.Resources", "VocaDb.TouhouDb.Resources\VocaDb.TouhouDb.Resources.csproj", "{BF02D394-4900-4DFB-9348-C9A39762614A}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA99559-2BCA-43CF-B03F-D78F9A8A6A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA99559-2BCA-43CF-B03F-D78F9A8A6A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA99559-2BCA-43CF-B03F-D78F9A8A6A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA99559-2BCA-43CF-B03F-D78F9A8A6A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C42BAD9-1CB2-4621-9C6D-15729CB32685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C42BAD9-1CB2-4621-9C6D-15729CB32685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C42BAD9-1CB2-4621-9C6D-15729CB32685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C42BAD9-1CB2-4621-9C6D-15729CB32685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A20185-136F-45B0-81C4-84102D3F2A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A20185-136F-45B0-81C4-84102D3F2A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A20185-136F-45B0-81C4-84102D3F2A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A20185-136F-45B0-81C4-84102D3F2A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF02D394-4900-4DFB-9348-C9A39762614A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF02D394-4900-4DFB-9348-C9A39762614A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF02D394-4900-4DFB-9348-C9A39762614A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF02D394-4900-4DFB-9348-C9A39762614A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
