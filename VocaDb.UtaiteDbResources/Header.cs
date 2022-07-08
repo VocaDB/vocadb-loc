@@ -1,5 +1,3 @@
-#nullable disable
-
 using VocaDb.Model.Service.BrandableStrings;
 using VocaDb.Model.Service.BrandableStrings.Collections;
 using VocaDb.UtaiteDb.Resources.ViewRes;

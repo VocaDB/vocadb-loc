@@ -1,5 +1,3 @@
-#nullable disable
-
 namespace VocaDb.Web;
 
 /// <summary>
