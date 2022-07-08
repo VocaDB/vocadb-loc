@@ -34,9 +34,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VocaDbModel\VocaDb.Model.csproj" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Styles\UtaiteDB.less" />
   </ItemGroup>
   <ItemGroup>
