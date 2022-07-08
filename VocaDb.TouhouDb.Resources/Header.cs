@@ -6,15 +6,15 @@ namespace VocaDb.TouhouDb.Resources;
 
 public class Header : IBrandedStringsAssemblyHeader
 {
-	public AlbumStrings Album => new AlbumStrings(AlbumRes.ResourceManager);
+	public AlbumStrings Album => new(AlbumRes.ResourceManager);
 
-	public ArtistStrings Artist => new ArtistStrings(ArtistRes.ResourceManager);
+	public ArtistStrings Artist => new(ArtistRes.ResourceManager);
 
-	public HomeStrings Home => new HomeStrings(HomeRes.ResourceManager);
+	public HomeStrings Home => new(HomeRes.ResourceManager);
 
-	public LayoutStrings Layout => new LayoutStrings(LayoutRes.ResourceManager);
+	public LayoutStrings Layout => new(LayoutRes.ResourceManager);
 
-	public SongStrings Song => new SongStrings(SongRes.ResourceManager);
+	public SongStrings Song => new(SongRes.ResourceManager);
 
-	public UserStrings User => new UserStrings(UserRes.ResourceManager);
+	public UserStrings User => new(UserRes.ResourceManager);
 }
