@@ -141,4 +141,7 @@
   <data name="Unspecified" xml:space="preserve">
     <value>Unspecified</value>
   </data>
+  <data name="Festival" xml:space="preserve">
+    <value>Festival</value>
+  </data>
 </root>
