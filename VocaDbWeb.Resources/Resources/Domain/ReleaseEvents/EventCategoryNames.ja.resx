@@ -141,4 +141,7 @@
   <data name="Unspecified" xml:space="preserve">
     <value>カテゴリー無し</value>
   </data>
+  <data name="Festival" xml:space="preserve">
+    <value>祭</value>
+  </data>
 </root>
