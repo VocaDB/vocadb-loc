@@ -130,7 +130,7 @@
     <value>登録</value>
   </data>
   <data name="NotLoggedInMessage" xml:space="preserve">
-    <value>これを使う前に{0}するか{1}してください。</value>
+    <value>これを使う前に&lt;1&gt;ログオン&lt;/1&gt;するか&lt;1&gt;登録&lt;/1&gt;してください。</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
     <value>アーティストアカウント証明</value>

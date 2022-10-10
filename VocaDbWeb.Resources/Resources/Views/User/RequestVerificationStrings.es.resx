@@ -147,7 +147,7 @@
     <value>Solicitar mensaje (requerido)</value>
   </data>
   <data name="NotLoggedInMessage" xml:space="preserve">
-    <value>Lo sentimos, necesitas {0} o {1} para utilizar esta función.</value>
+    <value>Lo sentimos, necesitas &lt;1&gt;Iniciar sesión&lt;/1&gt; o &lt;2&gt;Registrarse&lt;/2&gt; para utilizar esta función.</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
     <value>Solicitar verificación de cuenta</value>

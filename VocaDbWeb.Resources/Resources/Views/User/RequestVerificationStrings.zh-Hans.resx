@@ -130,7 +130,7 @@
     <value>下方所填地址即证明材料</value>
   </data>
   <data name="NotLoggedInMessage" xml:space="preserve">
-    <value>您只有【{0}】或【{1}】之后才能进行此操作。</value>
+    <value>您只有【&lt;1&gt;登陆&lt;/1&gt;】或【&lt;1&gt;注册&lt;/1&gt;】之后才能进行此操作。</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
     <value>申请账户认证</value>

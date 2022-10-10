@@ -144,7 +144,7 @@
     <value>Mensagem do pedido (obrigatório)</value>
   </data>
   <data name="NotLoggedInMessage" xml:space="preserve">
-    <value>Desculpe, precisa de {0} ou {1} para utilizar esta ferramenta.</value>
+    <value>Desculpe, precisa de &lt;1&gt;log in&lt;/1&gt; ou &lt;2&gt;registo&lt;/2&gt; para utilizar esta ferramenta.</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
     <value>Pedir verificação da conta</value>

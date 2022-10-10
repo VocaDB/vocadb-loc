@@ -130,7 +130,7 @@
     <value>The proof is provided in the URL below</value>
   </data>
   <data name="NotLoggedInMessage" xml:space="preserve">
-    <value>Sorry, you need to {0} or {1} to use this feature.</value>
+    <value>Sorry, you need to &lt;1&gt;log in&lt;/1&gt; or &lt;2&gt;sign up&lt;/2&gt; to use this feature.</value>
   </data>
   <data name="PageTitle" xml:space="preserve">
     <value>Request account verification</value>
