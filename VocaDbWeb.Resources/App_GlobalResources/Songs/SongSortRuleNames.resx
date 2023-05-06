@@ -138,4 +138,7 @@
   <data name="TagUsageCount" xml:space="preserve">
     <value>Tag usage count</value>
   </data>
+  <data name="SongType" xml:space="preserve">
+    <value>Song type</value>
+  </data>
 </root>

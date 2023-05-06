@@ -135,4 +135,7 @@
   <data name="PublishDate" xml:space="preserve">
     <value>公開日</value>
   </data>
+  <data name="SongType" xml:space="preserve">
+    <value>曲タイプ</value>
+  </data>
 </root>
