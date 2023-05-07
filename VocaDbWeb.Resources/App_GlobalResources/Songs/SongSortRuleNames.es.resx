@@ -135,4 +135,7 @@
   <data name="RatingScore" xml:space="preserve">
     <value>Puntuación de rating</value>
   </data>
+  <data name="SongType" xml:space="preserve">
+    <value>Tipo de canción</value>
+  </data>
 </root>
