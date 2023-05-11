@@ -252,4 +252,7 @@
   <data name="YouHaveRatedSongs" xml:space="preserve">
     <value>You have rated {0} song(s) by this artist.</value>
   </data>
+  <data name="MostUsedLanguages" xml:space="preserve">
+    <value>Most used languages:</value>
+  </data>
 </root>
