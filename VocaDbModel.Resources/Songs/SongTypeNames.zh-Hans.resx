@@ -117,37 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Arrangement" xml:space="preserve">
+    <value>改编</value>
+  </data>
   <data name="Cover" xml:space="preserve">
-    <value>翻唱曲</value>
+    <value>翻唱</value>
   </data>
   <data name="DramaPV" xml:space="preserve">
-    <value>短剧PV</value>
+    <value>Drama PV</value>
+  </data>
+  <data name="Illustration" xml:space="preserve">
+    <value>插画</value>
   </data>
   <data name="Instrumental" xml:space="preserve">
-    <value>纯音乐</value>
+    <value>器乐</value>
   </data>
   <data name="Live" xml:space="preserve">
-    <value>Live recording</value>
+    <!--Live recording-->
+    <value>现场录音</value>
   </data>
   <data name="Mashup" xml:space="preserve">
-    <value>混搭曲</value>
+    <value>Mashup</value>
   </data>
   <data name="MusicPV" xml:space="preserve">
-    <value>音乐PV</value>
+    <!--Music PV-->
+    <value>音乐宣传视频</value>
   </data>
   <data name="Original" xml:space="preserve">
-    <value>原创曲</value>
+    <!--Original song-->
+    <value>原创</value>
   </data>
   <data name="Other" xml:space="preserve">
     <value>其他</value>
   </data>
   <data name="Remaster" xml:space="preserve">
-    <value>重调版</value>
+    <value>重母带</value>
   </data>
   <data name="Remix" xml:space="preserve">
-    <value>Remix</value>
+    <value>重混音</value>
   </data>
   <data name="Unspecified" xml:space="preserve">
-    <value>未定义</value>
+    <value>不详</value>
   </data>
 </root>
