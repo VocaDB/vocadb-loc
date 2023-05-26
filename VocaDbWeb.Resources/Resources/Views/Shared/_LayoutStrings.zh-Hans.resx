@@ -126,56 +126,70 @@
   <data name="AddArtist" xml:space="preserve">
     <value>添加艺术家</value>
   </data>
+  <data name="AddEvent" xml:space="preserve">
+    <value>添加活动</value>
+  </data>
   <data name="AddSong" xml:space="preserve">
-    <value>添加歌曲</value>
+    <value>添加曲目</value>
   </data>
   <data name="BackgroundCredit" xml:space="preserve">
-    <value>Background illustration by {0}</value>
+    <!--Background illustration by {0}-->
+    <value>背景插图由{0}制作</value>
   </data>
   <data name="Blog" xml:space="preserve">
     <value>博客</value>
   </data>
   <data name="Discussions" xml:space="preserve">
-    <value>讨论区</value>
+    <value>讨论</value>
   </data>
   <data name="FollowUser" xml:space="preserve">
-    <value>Follow user</value>
+    <!--Follow user-->
+    <value>关注用户</value>
   </data>
   <data name="FreeAlbums" xml:space="preserve">
-    <value>可免费下载的专辑</value>
+    <!--Free download-->
+    <value>免费下载</value>
   </data>
   <data name="Help" xml:space="preserve">
-    <value>帮助/关于本站</value>
+    <value>帮助/关于</value>
   </data>
   <data name="Home" xml:space="preserve">
     <value>首页</value>
   </data>
   <data name="IRCLink" xml:space="preserve">
-    <value>Rizon IRC聊天室</value>
+    <!--IRC channel on Rizon-->
+    <value>Rizon上的IRC频道</value>
   </data>
   <data name="License" xml:space="preserve">
-    <value>Content licensed under Creative Commons.</value>
+    <!--Content licensed under Creative Commons.-->
+    <value>内容基于Creative Commons许可。</value>
   </data>
   <data name="LogIn" xml:space="preserve">
-    <value>登陆</value>
+    <value>登录</value>
   </data>
   <data name="LogOut" xml:space="preserve">
-    <value>登出</value>
+    <value>注销</value>
   </data>
   <data name="Manage" xml:space="preserve">
     <value>Manage</value>
   </data>
   <data name="MikuDbAlbum" xml:space="preserve">
-    <value>Album import</value>
+    <!--Album import-->
+    <value>导入专辑</value>
   </data>
   <data name="NewAlbums" xml:space="preserve">
-    <value>最新专辑</value>
+    <value>新专辑</value>
   </data>
   <data name="NewPVs" xml:space="preserve">
-    <value>最新歌曲</value>
+    <value>新PV</value>
   </data>
   <data name="OtherCredit" xml:space="preserve">
-    <value>Other credits and source code</value>
+    <!--Other credits and source code-->
+    <value>其他制作人员和源代码</value>
+  </data>
+  <data name="PrivacyPolicy" xml:space="preserve">
+    <!--Privacy and cookie policy-->
+    <value>隐私和Cookie政策</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>注册</value>
@@ -184,7 +198,7 @@
     <value>关联站点</value>
   </data>
   <data name="Services" xml:space="preserve">
-    <value>Services</value>
+    <value>服务</value>
   </data>
   <data name="SocialSites" xml:space="preserve">
     <value>社区</value>
@@ -193,7 +207,11 @@
     <value>标签/流派</value>
   </data>
   <data name="UnreadMessages" xml:space="preserve">
-    <value>You have unread messages</value>
+    <!--You have unread messages-->
+    <value>您有未读信息</value>
+  </data>
+  <data name="UpcomingEvents" xml:space="preserve">
+    <value>即将举行的活动</value>
   </data>
   <data name="Welcome" xml:space="preserve">
     <value>欢迎</value>

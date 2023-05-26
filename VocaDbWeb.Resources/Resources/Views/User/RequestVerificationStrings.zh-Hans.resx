@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ArtistTitle" xml:space="preserve">
-    <value>您申请核实的条目名称：（必填）</value>
+    <value>您申请核实的词条名称：（必填）</value>
   </data>
   <data name="Login" xml:space="preserve">
     <value>登陆</value>
